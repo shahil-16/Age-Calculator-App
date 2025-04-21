@@ -18,7 +18,9 @@ CSS3 – for styling
 
 JavaScript (ES6) – for the logic and interactivity
 
-📸 Screenshot image
+📸 Screenshot 
+![Screenshot (3)](https://github.com/user-attachments/assets/d6908732-3388-4dc8-9952-97bc40b5d076)
+
 
 🧪 How to Use Clone the repo or download the files
 
@@ -30,4 +32,4 @@ Click Calculate Age
 
 View your result instantly!
 
-🔗 Live Demo Check it out live here : https://agecalculatorapp-shruti.netlify.app/
+🔗 Live Demo Check it out live here : https://shahil-age-calculator.netlify.app/
